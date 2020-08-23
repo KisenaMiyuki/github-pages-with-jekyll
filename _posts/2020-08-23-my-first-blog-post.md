@@ -1,5 +1,5 @@
 ---
-title: Site Title
+title: "Site Title"
 date: 2049-2-31
 ---
 
