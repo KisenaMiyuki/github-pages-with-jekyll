@@ -1,3 +1,8 @@
+---
+title: Site Title
+date: 2049-2-31
+---
+
 ## Blog Section 1
 
 content #1
