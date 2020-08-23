@@ -1,6 +1,6 @@
 ---
 title: "Site Title"
-date: 2049-2-31
+date: 2049-02-31
 ---
 
 ## Blog Section 1
